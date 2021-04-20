@@ -4193,6 +4193,12 @@ body.is-mobile.landing #footer {
 	padding-left: 15rem;
 	padding-right: 15rem;
 }
+@media only screen and (max-width: 600px) {
+	#GTHub_widgets{
+padding: 1rem;	
+margin: 0;
+}
+  }
 #one, #main{
 	background-color: var(--navbar-background);
 	opacity: 0.8;
