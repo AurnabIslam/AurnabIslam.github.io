@@ -16,12 +16,12 @@
 
 .edu{
 	
-	background-color: #000000;
+	background-color: #ffffff;
 	display: inline-flex;
-	color: #def5f0;
+	color: #000000;
 	text-decoration-style:double;
-	border-radius: 1em;
-	margin-left: 10em;
+	margin-left: 11em;
+	
 }
 
 .resume_sub{
@@ -76,34 +76,40 @@
 }
 
 .sk1{
-	background: rgb(35, 35, 53);
-	color: rgb(255, 255, 255);
-	border-top-left-radius: 0.5em;
+	
+	color: rgb(0, 0, 0);
+	margin-bottom: 4em;
+
+
+	
 }
 .sk2{
-	background:rgb(35, 35, 53);
-	color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	margin-left: 3em;
 
 }
 .sk3{
-	background:rgb(35, 35, 53);
-	color: white;
+	
+	color: rgb(0, 0, 0);
 	border-top-right-radius: 1em;
+	margin-left:6em ;
 }
 
  .ed1{
-	 border-right: solid rgb(255, 255, 255);
+	 border-right: solid rgb(0, 0, 0);
 	 border-width: 0.15em;
 	 margin-top: 2.88em;
 	 margin-right: 1em;
 	 padding-right: 1em;
+	 font-weight: bold;
 	
 	}
 	 
  .ed2{
-	border-left: solid rgb(250, 249, 249);
+	border-left: solid rgb(0, 0, 0);
 	border-width: 0.15em;
 	margin-top: 2.88em;
+	font-weight: bold;
 	
 }
 
