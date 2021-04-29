@@ -31,18 +31,63 @@
 }
 .ip1{
 	display: flex;
+
 }
+
 
 .sh1{
 	border-top: solid;
 	border-bottom: solid;
 	font-size: large;
 }
+.ipe1{
+	
+	display: flex;
+	border-width: thin;
+	border-left: solid;
+	
+}
+.ipe2{
+	
+	display: flex;
+	border-width: thin;
+	border-left: solid;
+	
+}
+.ipe3{
+	
+	display: flex;
+	border-width: thin;
+	border-left: solid;
+	
+}
 
 .ip2{
 	display: inline-flex;
 	font-weight: bold;
 	font-size: small;
+
+	
+}
+.sk{
+	display: flexbox;
+	border-radius: 1em;
+}
+
+.sk1{
+	background: rgb(35, 35, 53);
+	color: rgb(255, 255, 255);
+	border-top-left-radius: 0.5em;
+}
+.sk2{
+	background:rgb(35, 35, 53);
+	color: rgb(255, 255, 255);
+
+}
+.sk3{
+	background:rgb(35, 35, 53);
+	color: white;
+	border-top-right-radius: 1em;
 }
 
  .ed1{
