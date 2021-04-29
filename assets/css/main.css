@@ -15,12 +15,13 @@
 }
 
 .edu{
+	
 	background-color: #000000;
 	display: inline-flex;
 	color: #def5f0;
 	text-decoration-style:double;
 	border-radius: 1em;
-	margin: auto;
+	margin-left: 10em;
 }
 
 .resume_sub{
