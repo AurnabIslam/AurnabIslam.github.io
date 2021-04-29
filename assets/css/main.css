@@ -14,8 +14,52 @@
 	--fs-navbar: 3rem;
 }
 
+.edu{
+	background-color: #000000;
+	display: inline-flex;
+	color: #def5f0;
+	text-decoration-style:double;
+	border-radius: 1em;
+	margin: auto;
+}
 
+.resume_sub{
+	margin-top: 2em;
+	border-left: double;
+	border-width: thick;
 
+}
+.ip1{
+	display: flex;
+}
+
+.sh1{
+	border-top: solid;
+	border-bottom: solid;
+	font-size: large;
+}
+
+.ip2{
+	display: inline-flex;
+	font-weight: bold;
+	font-size: small;
+}
+
+ .ed1{
+	 border-right: solid rgb(255, 255, 255);
+	 border-width: 0.15em;
+	 margin-top: 2.88em;
+	 margin-right: 1em;
+	 padding-right: 1em;
+	
+	}
+	 
+ .ed2{
+	border-left: solid rgb(250, 249, 249);
+	border-width: 0.15em;
+	margin-top: 2.88em;
+	
+}
 
 
 html,
@@ -215,12 +259,7 @@ textarea {
 	letter-spacing: 0.075em;
 	line-height: 1.65em;
 }
-.edu{
-	background-color: #cbe3f8;
-	display: inline-flex;
-	border: #1d242a;
-	
-}
+
 @media screen and (max-width: 1680px) {
 
 	body,
@@ -4232,6 +4271,8 @@ margin: 0;
 	font-size: 2rem;
 	color: black;
 	text-align: center;
+	border-bottom: double;
+	border-radius: 10%;
 }
 .features img{
 	width: 100%;
