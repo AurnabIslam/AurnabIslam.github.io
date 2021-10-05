@@ -3510,10 +3510,10 @@ button:disabled,
 }
 
 #menu {
-	-moz-transform: translateY(-20em);
-	-webkit-transform: translateY(-20em);
-	-ms-transform: translateY(-20em);
-	transform: translateY(-20em);
+	-moz-transform: translateY(-40em);
+	-webkit-transform: translateY(-40em);
+	-ms-transform: translateY(-40em);
+	transform: translateY(-40em);
 	-moz-transition: -moz-transform 0.5s ease;
 	-webkit-transition: -webkit-transform 0.5s ease;
 	-ms-transition: -ms-transform 0.5s ease;
