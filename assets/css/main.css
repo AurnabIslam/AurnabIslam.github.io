@@ -29,104 +29,6 @@
 	--p-colour-4:#92aeee;
 }
 
-.edu{
-	
-	background-color: #ffffff;
-	display: inline-flex;
-	color: #000000;
-	text-decoration-style:double;
-	margin-left: 11em;
-	
-}
-
-.resume_sub{
-	margin-top: 2em;
-	border-left: double;
-	border-width: thick;
-
-}
-.ip1{
-	display: flex;
-
-}
-
-
-.sh1{
-	border-top: solid;
-	border-bottom: solid;
-	font-size: large;
-}
-.ipe1{
-	
-	display: flex;
-	border-width: thin;
-	border-left: solid;
-	
-}
-.ipe2{
-	
-	display: flex;
-	border-width: thin;
-	border-left: solid;
-	
-}
-.ipe3{
-	
-	display: flex;
-	border-width: thin;
-	border-left: solid;
-	
-}
-
-.ip2{
-	display: inline-flex;
-	font-weight: bold;
-	font-size: small;
-
-	
-}
-.sk{
-	display: flexbox;
-	border-radius: 1em;
-}
-
-.sk1{
-	
-	color: rgb(0, 0, 0);
-	margin-bottom: 4em;
-
-
-	
-}
-.sk2{
-	color: rgb(0, 0, 0);
-	margin-left: 3em;
-
-}
-.sk3{
-	
-	color: rgb(0, 0, 0);
-	border-top-right-radius: 1em;
-	margin-left:6em ;
-}
-
- .ed1{
-	 border-right: solid rgb(0, 0, 0);
-	 border-width: 0.15em;
-	 margin-top: 2.88em;
-	 margin-right: 1em;
-	 padding-right: 1em;
-	 font-weight: bold;
-	
-	}
-	 
- .ed2{
-	border-left: solid rgb(0, 0, 0);
-	border-width: 0.15em;
-	margin-top: 2.88em;
-	font-weight: bold;
-	
-}
 
 
 html,
@@ -4368,11 +4270,7 @@ margin: 0;
 .card .container{
 	margin-top: 30px;
 }
-.resume_header{
-	font-size: 2rem;
-	color: black;
-	text-align: center;
-}
+
 .features img{
 	width: 100%;
 }

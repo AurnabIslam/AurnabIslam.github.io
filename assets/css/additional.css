@@ -12,7 +12,9 @@
 	--header-background:#434655;
 	--footer-color:#434655;
 	--footer-text:#92aeee;
+	--card-color:#434655;
 	--navbar-text:rgb(233, 219, 219);
+	--three-h2:#434655;
 	--header-major-color:#434655;
 	--banner-bckg:#434655;
 	--banner-one:#434655;
@@ -25,4 +27,24 @@
 	--p-colour-2:#434655;
 	--p-colour-3:#a8aabc;
 	--p-colour-4:#92aeee;
+}
+
+#resume{
+	width: auto;
+	padding: 5%;
+	background: var(--banner-three);
+}
+
+.resume_header{
+	width: 100%;
+	font-size: 3rem;
+	text-align: center;
+	text-transform: capitalize;
+	border-bottom: solid 3px var(--header-background);
+	color: var(--card-color);
+}
+
+.resume_title, .resume_subtitle, .resume_description{
+	text-transform: none;
+	color: var(--header-background);
 }
