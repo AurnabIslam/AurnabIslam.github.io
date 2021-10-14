@@ -1,0 +1,28 @@
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+
+/*
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+:root {
+	--navbar-background: #b8b5ff1a;
+	--header-background:#434655;
+	--footer-color:#434655;
+	--footer-text:#92aeee;
+	--navbar-text:rgb(233, 219, 219);
+	--header-major-color:#434655;
+	--banner-bckg:#434655;
+	--banner-one:#434655;
+	--banner-three:#f7f7f7;
+	--button-color: #3b96b9;
+	--button-color-active: #407a91;
+	--footer-c:#298494;
+	--fs-navbar: 3rem;
+	--p-colour-1:#456dc7;
+	--p-colour-2:#434655;
+	--p-colour-3:#a8aabc;
+	--p-colour-4:#92aeee;
+}
