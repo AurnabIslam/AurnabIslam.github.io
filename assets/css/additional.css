@@ -31,8 +31,9 @@
 
 #resume{
 	width: auto;
-	padding: 5%;
+	padding: 5% 20%;
 	background: var(--banner-three);
+	color: var(--header-background);
 }
 
 .resume_header{
@@ -40,6 +41,7 @@
 	font-size: 3rem;
 	text-align: center;
 	text-transform: capitalize;
+	padding-bottom: 15px;
 	border-bottom: solid 3px var(--header-background);
 	color: var(--card-color);
 }
@@ -47,4 +49,44 @@
 .resume_title, .resume_subtitle, .resume_description{
 	text-transform: none;
 	color: var(--header-background);
+}
+
+ul{
+	list-style: none;
+}
+.fa-chevron-double-right{
+	color: var(--button-color-active);
+}
+.fa-trophy-alt{
+	color: goldenrod;
+}
+.fa-shield-check{
+	color: #298494;
+}
+#resume_skills_list{
+	list-style:none;  
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.resume_skills_item_a, .resume_skills_item_b, .resume_skills_item_c{
+	color: white;
+	margin: 10px;
+	padding: 10px 20px;
+	border-radius: 17px;
+
+}
+.resume_skills_item_a{
+	background:var(--p-colour-1);
+}
+.resume_skills_item_b{
+	background:var(--p-colour-2);
+}
+.resume_skills_item_c{
+	background:var(--p-colour-3);
+}
+@media screen and (max-width: 699px) {
+	.resume_header{
+		font-size: 1.5rem;
+	}
 }
