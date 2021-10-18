@@ -74,16 +74,20 @@ ul{
 	margin: 10px;
 	padding: 10px 20px;
 	border-radius: 17px;
-
+	box-shadow: -3px 3px 7px #43465588;
+}
+.resume_skills_item_a:hover, .resume_skills_item_b:hover, .resume_skills_item_c:hover{
+	transition: 0.25s;
+	scale: 1.1;
 }
 .resume_skills_item_a{
-	background:var(--p-colour-1);
+	background:#6c2485;
 }
 .resume_skills_item_b{
-	background:var(--p-colour-2);
+	background:#fa8128;
 }
 .resume_skills_item_c{
-	background:var(--p-colour-3);
+	background:#a45ee5;
 }
 @media screen and (max-width: 699px) {
 	.resume_header{
