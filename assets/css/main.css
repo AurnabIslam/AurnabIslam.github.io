@@ -3569,8 +3569,8 @@ button:disabled,
 
 #menu ul>li:first-child {
 	border-top: 1 !important;
-	margin-top: 0 !important;
-	padding-top: 0 !important;
+	margin-top: 1 !important;
+	padding-top: 1 !important;
 }
 
 #menu ul>li>a {
