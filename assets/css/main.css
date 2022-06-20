@@ -3568,7 +3568,7 @@ button:disabled,
 }
 
 #menu ul>li:first-child {
-	border-top: 0 !important;
+	border-top: 1 !important;
 	margin-top: 0 !important;
 	padding-top: 0 !important;
 }
